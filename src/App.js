@@ -18,7 +18,7 @@ function App() {
       <NoteState>
         <Router>
           <Navbar />
-          <Alert message="This is amazing React course" />
+          <Alert message="Login to access your notes" />
           <div className="container">
             <Switch>
               <Route exact path="/">
